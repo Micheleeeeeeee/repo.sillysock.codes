@@ -1,0 +1,14 @@
+Package: me.sillysock.volume
+Name: Volume Checker
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Simple Tweak to check your volume when you change it!
+Maintainer: Silly Sock 
+Author: Silly Sock
+Section: Tweaks
+Depends:
+Filename: me.sillysock.volume_1.0.0_iphoneos-arm.deb
+Size: 3582
+MD5sum: 0c9d15f3b2
+SHA1: 064730a6b7dffd5a165a73d6256242ca0c7a5daa
+SHA256: 73c3bd844f6e3d20ab5681f4b480f264ba57bbc49e48aba2c0998da3fa361820
